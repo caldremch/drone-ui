@@ -1,0 +1,1 @@
+docker build -t caldremch/drone-ui .

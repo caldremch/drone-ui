@@ -1,0 +1,1 @@
+npm i node-sass --sass_binary_path=./linux-x64-83_binding.node
