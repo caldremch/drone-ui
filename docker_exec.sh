@@ -1,0 +1,1 @@
+docker run --name drone-ui -v /root/code/drone-ui:/app -d caldremch/ubuntu-node14-py2
